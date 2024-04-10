@@ -1,0 +1,9 @@
+*.pyc
+.cache
+*.png
+dist/
+build/
+tmp/*
+/src/wavefield/*
+simwave.egg-info/*
+.ipynb_checkpoints
